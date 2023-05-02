@@ -1,0 +1,209 @@
+{
+    "Username": [
+        "ello",
+        "ken",
+        "panpan",
+        "lionel",
+        "Keyan",
+        "josh",
+        "kt",
+        "keyan",
+        "naomi",
+        "nalo",
+        "lok",
+        "k",
+        "kk",
+        "panpan",
+        "kk"
+    ],
+    "Score": [
+        26,
+        38,
+        40,
+        20,
+        28,
+        24,
+        32,
+        24,
+        34,
+        40,
+        40,
+        30,
+        72,
+        56,
+        72
+    ],
+    "Date": [
+        "Mon Dec 19 01:45:59 2022",
+        "Thu Dec 22 17:02:53 2022",
+        "Mon Dec 26 02:55:30 2022",
+        "Tue Dec 27 01:28:55 2022",
+        "Tue Dec 27 01:42:56 2022",
+        "Thu Dec 29 14:57:34 2022",
+        "Thu Dec 29 15:04:40 2022",
+        "Thu Dec 29 18:23:39 2022",
+        "Thu Dec 29 18:25:42 2022",
+        "Thu Dec 29 18:25:42 2022",
+        "Sat Dec 31 15:11:12 2022",
+        "Sun Jan  1 00:49:29 2023",
+        "Sun Jan  1 00:50:59 2023",
+        "Wed Jan  4 23:23:54 2023",
+        "Thu Jan  5 23:55:58 2023"
+    ],
+    "Words Guessed Per Attempt": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        4,
+        2,
+        2
+    ],
+    "Number of Attempts": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+    ],
+    "Correct Guesses": [
+        [
+            "tiger",
+            "kangaroo",
+            "leopard"
+        ],
+        [
+            "power",
+            "dependence",
+            "house",
+            "nonsense"
+        ],
+        [
+            "power",
+            "house",
+            "dependence",
+            "bottom"
+        ],
+        [
+            "rome wasn't built in a day",
+            "rome wasn't built in a day"
+        ],
+        [
+            "Two heads are better than one",
+            "Two wrongs don't make a right"
+        ],
+        [
+            "immunoelectrophoresis",
+            "dichlorodiphenyltrichloroethane"
+        ],
+        [
+            "crocodile",
+            "owl",
+            "zebra",
+            "swan"
+        ],
+        [
+            "flamingo",
+            "pelican"
+        ],
+        [
+            "peacock",
+            "pelican",
+            "seagull"
+        ],
+        [
+            "peacock",
+            "pelican",
+            "seagull",
+            "lion",
+            "whale",
+            "alligator"
+        ],
+        [
+            "curiosity killed the cat",
+            "cost an arm and a leg",
+            "curiosity killed the cat",
+            "too many cooks spoil the broth"
+        ],
+        [
+            "stork",
+            "swan",
+            "owl"
+        ],
+        [
+            "kangaroo",
+            "leopard",
+            "seagull",
+            "owl",
+            "peacock"
+        ],
+        [
+            "snake",
+            "dolphin",
+            "platypus",
+            "elephant",
+            "crocodile"
+        ],
+        [
+            "no man is an island",
+            "no pain no gain",
+            "absence makes the heart grow fonder",
+            "one step at a time",
+            "the only constant is change",
+            "time heals all wounds"
+        ]
+    ],
+    "Incorrect Guesses": [
+        [
+            "snake"
+        ],
+        "-None-",
+        "-None-",
+        "-None-",
+        "-None-",
+        [
+            "cytofluorometric"
+        ],
+        "-None-",
+        [
+            "stork",
+            "monkey"
+        ],
+        [
+            "kangaroo"
+        ],
+        [
+            "kangaroo",
+            "gazelle"
+        ],
+        "-None-",
+        "-None-",
+        [
+            "monkey",
+            "gazelle",
+            "lion"
+        ],
+        [
+            "ostrich"
+        ],
+        "-None-"
+    ]
+}
